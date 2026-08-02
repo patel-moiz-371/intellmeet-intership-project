@@ -69,7 +69,7 @@ IntellMeet is a production-grade meeting and collaboration platform built with t
 |------|------|--------|
 | Moiz | Team Lead + Auth + Meetings + Integration + DevOps | [@patel-moiz-371](https://github.com/patel-moiz-371) |
 | Jay | Frontend + Dashboard + UI Components | [@gaikwadjay181](https://github.com/gaikwadjay181) |
-| Rohit | Meetings + Chat + Socket.io *(incomplete)* | [@DhoriRohit1](https://github.com/DhoriRohit1) |
+| Anand | Meetings + Chat + Socket.io | [@Anand805564](https://github.com/Anand805564) |
 | Charulatha | Kanban + Task Management | [@Charulatha2324](https://github.com/Charulatha2324) |
 
 ---
